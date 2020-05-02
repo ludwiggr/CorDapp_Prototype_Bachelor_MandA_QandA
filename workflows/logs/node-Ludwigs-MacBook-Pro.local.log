@@ -1,0 +1,321 @@
+[INFO ] 2020-04-20T10:26:23,843Z [Test worker] internal.TestCordappImpl. - Generating CorDapp jar from local project in /Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows ... {}
+[INFO ] 2020-04-20T10:26:24,458Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2020-04-20T10:26:32,758Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2020-04-20T10:26:35,487Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2020-04-20T10:26:35,511Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2020-04-20T10:26:35,513Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2020-04-20T10:26:37,214Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:37,333Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2020-04-20T10:26:39,142Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:39,152Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:39,152Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2020-04-20T10:26:39,751Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:39,775Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2020-04-20T10:26:40,708Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2020-04-20T10:26:41,209Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2020-04-20T10:26:41,220Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2020-04-20T10:26:41,267Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2020-04-20T10:26:41,268Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2020-04-20T10:26:41,268Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2020-04-20T10:26:43,383Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:43,383Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2020-04-20T10:26:43,611Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:43,611Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2020-04-20T10:26:43,666Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:43,666Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2020-04-20T10:26:43,781Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2020-04-20T10:26:43,795Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:44,048Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:44,060Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:44,060Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:44,070Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:44,091Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:44,104Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:44,104Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:44,104Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:44,136Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:44,179Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:44,190Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:44,190Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:44,304Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:44,316Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:44,317Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:44,317Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:44,317Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2020-04-20T10:26:44,406Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:44,406Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2020-04-20T10:26:44,429Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,102Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2020-04-20T10:26:45,102Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,136Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:45,136Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,180Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,180Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2020-04-20T10:26:45,191Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,192Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2020-04-20T10:26:45,204Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,204Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2020-04-20T10:26:45,204Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,204Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,215Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2020-04-20T10:26:45,334Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,334Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2020-04-20T10:26:45,358Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,358Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,358Z [Connection worker] internal.TestCordappImpl. - Task :contracts:inspectClassesForKotlinIC {}
+[INFO ] 2020-04-20T10:26:45,371Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,371Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2020-04-20T10:26:45,404Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,404Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,404Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2020-04-20T10:26:45,404Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,414Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:45,425Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,425Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:45,425Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,425Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2020-04-20T10:26:45,480Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,480Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2020-04-20T10:26:45,480Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,480Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2020-04-20T10:26:45,480Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,492Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2020-04-20T10:26:45,492Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileKotlin {}
+[INFO ] 2020-04-20T10:26:45,492Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,515Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2020-04-20T10:26:45,515Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,515Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2020-04-20T10:26:45,526Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,526Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2020-04-20T10:26:45,526Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,526Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,526Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2020-04-20T10:26:45,665Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,665Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2020-04-20T10:26:45,677Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,677Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2020-04-20T10:26:45,677Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,677Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2020-04-20T10:26:45,677Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2020-04-20T10:26:45,688Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,688Z [Connection worker] internal.TestCordappImpl. - Task :workflows:inspectClassesForKotlinIC {}
+[INFO ] 2020-04-20T10:26:45,688Z [Connection worker] internal.TestCordappImpl. - Clean stale outputs {}
+[INFO ] 2020-04-20T10:26:45,700Z [Connection worker] internal.TestCordappImpl. - Task :workflows:inspectClassesForKotlinIC {}
+[INFO ] 2020-04-20T10:26:45,746Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:45,746Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2020-04-20T10:26:45,746Z [Connection worker] internal.TestCordappImpl. - Clean stale outputs {}
+[INFO ] 2020-04-20T10:26:45,746Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2020-04-20T10:26:48,047Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2020-04-20T10:26:48,058Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:48,058Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2020-04-20T10:26:48,058Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2020-04-20T10:26:48,074Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2020-04-20T10:26:48,083Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in /Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/.gradle {}
+[INFO ] 2020-04-20T10:26:48,096Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2020-04-20T10:26:48,128Z [Connection worker] internal.TestCordappImpl. -  {}
+[INFO ] 2020-04-20T10:26:48,517Z [Test worker] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build/mock-network/20200420-102609.724/nodes/0/cordapps] {}
+[INFO ] 2020-04-20T10:26:48,537Z [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/0/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/0/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2020-04-20T10:26:48,596Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/0/cordapps/contracts-0.1.jar {}
+[INFO ] 2020-04-20T10:26:48,750Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/0/cordapps/workflows-0.1.jar {}
+[INFO ] 2020-04-20T10:26:50,719Z [Test worker] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2020-04-20T10:26:50,933Z [Test worker] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2020-04-20T10:26:51,085Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AnswerInitiator to initiate com.template.flows.AnswerResponder (version 1) {}
+[INFO ] 2020-04-20T10:26:51,086Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AskInitiator to initiate com.template.flows.AskResponder (version 1) {}
+[INFO ] 2020-04-20T10:26:51,386Z [Test worker] internal.InternalMockNetwork$MockNode. - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2020-04-20T10:26:09.535Z
+      epoch=1
+  } {}
+[INFO ] 2020-04-20T10:27:02,192Z [Test worker] persistence.AttachmentVersionNumberMigration. - Start executing... {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:02,196Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20200420-102609.724/nodes/0/network-parameters, whitelistedContractImplementations: {}. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:02,196Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs skipped, no attachments not found. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:02,272Z [Test worker] migration.VaultStateMigration. - Migrating vault state data to V4 tables {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:02,489Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:02,531Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:09,235Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:10,834Z [Test worker] migration.VaultStateMigration. - Finished performing vault state data migration for 0 states {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:10,840Z [Test worker] migration.PersistentIdentityMigrationNewTable. - Migrating persistent identities with certificates table into persistent table with no certificate data. {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:10,847Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:10,847Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:10,989Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:11,099Z [Test worker] internal.InternalMockNetwork$MockNode. - Connected to H2 database. {}
+[INFO ] 2020-04-20T10:27:11,162Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2020-04-20T10:27:11,162Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2020-04-20T10:27:12,031Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2020-04-20T10:27:12,067Z [Test worker] internal.InternalMockNetwork$MockNode. - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2020-04-20T10:27:12,068Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:12,081Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Notary Service, L=Zurich, C=CH {}
+[INFO ] 2020-04-20T10:27:12,382Z [Test worker] internal.InternalMockNetwork$MockNode. - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:12,520Z [Test worker] network.NetworkMapUpdater. - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2020-04-20T10:27:12,562Z [MockNode-1-2] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:12,607Z [MockNode-1-2] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:12,703Z [Test worker] persistence.NodeAttachmentService. - Stored new attachment: id=3724B26FFDDC82D441CB7A62ABB5978E186100DA5E891D4A23D2B8530D568225 uploader=app filename=Template CorDapp {}
+[INFO ] 2020-04-20T10:27:12,714Z [Test worker] utilities.NotaryLoader. - Starting notary service: class net.corda.node.services.transactions.SimpleNotaryService {}
+[INFO ] 2020-04-20T10:27:12,719Z [Test worker] notary.SinglePartyNotaryService. - Starting notary in validating mode {}
+[INFO ] 2020-04-20T10:27:13,385Z [Test worker] statemachine.SingleThreadedStateMachineManager. - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:13,428Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:13,431Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:13,432Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:13,432Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:13,452Z [Test worker] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build/mock-network/20200420-102609.724/nodes/1/cordapps] {}
+[INFO ] 2020-04-20T10:27:13,452Z [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/1/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/1/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2020-04-20T10:27:13,452Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/1/cordapps/contracts-0.1.jar {}
+[INFO ] 2020-04-20T10:27:13,462Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/1/cordapps/workflows-0.1.jar {}
+[INFO ] 2020-04-20T10:27:13,526Z [Test worker] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2020-04-20T10:27:13,529Z [Test worker] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2020-04-20T10:27:13,598Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AnswerInitiator to initiate com.template.flows.AnswerResponder (version 1) {}
+[INFO ] 2020-04-20T10:27:13,598Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AskInitiator to initiate com.template.flows.AskResponder (version 1) {}
+[INFO ] 2020-04-20T10:27:13,608Z [Test worker] internal.InternalMockNetwork$MockNode. - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2020-04-20T10:26:09.535Z
+      epoch=1
+  } {}
+[INFO ] 2020-04-20T10:27:15,882Z [Test worker] persistence.AttachmentVersionNumberMigration. - Start executing... {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:15,889Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20200420-102609.724/nodes/1/network-parameters, whitelistedContractImplementations: {}. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:15,889Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs skipped, no attachments not found. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:15,942Z [Test worker] migration.VaultStateMigration. - Migrating vault state data to V4 tables {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,141Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,141Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,625Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,643Z [Test worker] migration.VaultStateMigration. - Finished performing vault state data migration for 0 states {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,644Z [Test worker] migration.PersistentIdentityMigrationNewTable. - Migrating persistent identities with certificates table into persistent table with no certificate data. {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,731Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:16,731Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:17,000Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:17,013Z [Test worker] internal.InternalMockNetwork$MockNode. - Connected to H2 database. {}
+[INFO ] 2020-04-20T10:27:17,027Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:17,027Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:17,423Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:17,429Z [Test worker] internal.InternalMockNetwork$MockNode. - identity-private-key not found in key store, generating fresh key! {}
+[INFO ] 2020-04-20T10:27:17,481Z [Test worker] internal.InternalMockNetwork$MockNode. - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2020-04-20T10:27:17,481Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,485Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Mock Company 1, L=London, C=GB {}
+[INFO ] 2020-04-20T10:27:17,513Z [Test worker] internal.InternalMockNetwork$MockNode. - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,532Z [Test worker] network.NetworkMapUpdater. - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2020-04-20T10:27:17,539Z [MockNode-2-2] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,547Z [MockNode-2-2] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:17,633Z [Test worker] persistence.NodeAttachmentService. - Stored new attachment: id=3724B26FFDDC82D441CB7A62ABB5978E186100DA5E891D4A23D2B8530D568225 uploader=app filename=Template CorDapp {}
+[INFO ] 2020-04-20T10:27:17,654Z [Test worker] statemachine.SingleThreadedStateMachineManager. - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,678Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:17,685Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Notary Service, L=Zurich, C=CH {}
+[INFO ] 2020-04-20T10:27:17,714Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,716Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Mock Company 1, L=London, C=GB {}
+[INFO ] 2020-04-20T10:27:17,762Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,762Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:17,763Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:17,763Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:17,795Z [Test worker] cordapp.JarScanningCordappLoader. - Looking for CorDapps in [build/mock-network/20200420-102609.724/nodes/2/cordapps] {}
+[INFO ] 2020-04-20T10:27:17,795Z [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/2/cordapps/contracts-0.1.jar, rootPackageName=null), RestrictedURL(url=file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/2/cordapps/workflows-0.1.jar, rootPackageName=null) {}
+[INFO ] 2020-04-20T10:27:17,795Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/2/cordapps/contracts-0.1.jar {}
+[INFO ] 2020-04-20T10:27:17,810Z [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/ludwiggrober/Documents/06_Corda_Projekt/qa-ludwig-project/workflows/build/mock-network/20200420-102609.724/nodes/2/cordapps/workflows-0.1.jar {}
+[INFO ] 2020-04-20T10:27:17,851Z [Test worker] internal.InternalMockNetwork$MockNode. - Flow external operation executor has a max of 2 threads {}
+[INFO ] 2020-04-20T10:27:17,853Z [Test worker] internal.InternalMockNetwork$MockNode. - Node starting up ... {}
+[INFO ] 2020-04-20T10:27:17,904Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AnswerInitiator to initiate com.template.flows.AnswerResponder (version 1) {}
+[INFO ] 2020-04-20T10:27:17,904Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AskInitiator to initiate com.template.flows.AskResponder (version 1) {}
+[INFO ] 2020-04-20T10:27:17,913Z [Test worker] internal.InternalMockNetwork$MockNode. - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2020-04-20T10:26:09.535Z
+      epoch=1
+  } {}
+[INFO ] 2020-04-20T10:27:19,381Z [Test worker] persistence.AttachmentVersionNumberMigration. - Start executing... {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,383Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20200420-102609.724/nodes/2/network-parameters, whitelistedContractImplementations: {}. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,383Z [Test worker] persistence.AttachmentVersionNumberMigration. - Attachment version creation from whitelisted JARs skipped, no attachments not found. {changeSet=migration/node-services.changelog-init.xml::update-version-of-whitelisted-jars::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,425Z [Test worker] migration.VaultStateMigration. - Migrating vault state data to V4 tables {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,431Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,431Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,704Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,718Z [Test worker] migration.VaultStateMigration. - Finished performing vault state data migration for 0 states {changeSet=migration/vault-schema.changelog-v9.xml::update-vault-states::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,720Z [Test worker] migration.PersistentIdentityMigrationNewTable. - Migrating persistent identities with certificates table into persistent table with no certificate data. {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,726Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,726Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,873Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [MappedSchema(name=net.corda.node.migration.PersistentIdentitiesMigrationSchema, version=1)] {changeSet=migration/node-services.changelog-init.xml::transfer-to-new-persistence-table::R3.Corda, databaseChangeLog=master.changelog.json}
+[INFO ] 2020-04-20T10:27:19,897Z [Test worker] internal.InternalMockNetwork$MockNode. - Connected to H2 database. {}
+[INFO ] 2020-04-20T10:27:19,900Z [Test worker] persistence.HibernateConfiguration. - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:19,901Z [Test worker] persistence.HibernateConfiguration. - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:20,218Z [Test worker] persistence.HibernateConfiguration. - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1)] {}
+[INFO ] 2020-04-20T10:27:20,220Z [Test worker] internal.InternalMockNetwork$MockNode. - identity-private-key not found in key store, generating fresh key! {}
+[INFO ] 2020-04-20T10:27:20,266Z [Test worker] internal.InternalMockNetwork$MockNode. - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2020-04-20T10:27:20,266Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,278Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=PartyB, L=New York, C=US {}
+[INFO ] 2020-04-20T10:27:20,305Z [Test worker] internal.InternalMockNetwork$MockNode. - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,318Z [Test worker] network.NetworkMapUpdater. - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2020-04-20T10:27:20,323Z [MockNode-3-2] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,328Z [MockNode-3-2] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:20,381Z [Test worker] persistence.NodeAttachmentService. - Stored new attachment: id=3724B26FFDDC82D441CB7A62ABB5978E186100DA5E891D4A23D2B8530D568225 uploader=app filename=Template CorDapp {}
+[INFO ] 2020-04-20T10:27:20,397Z [Test worker] statemachine.SingleThreadedStateMachineManager. - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,403Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=6, serial=1587378432067) {}
+[INFO ] 2020-04-20T10:27:20,405Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Notary Service, L=Zurich, C=CH {}
+[INFO ] 2020-04-20T10:27:20,429Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,434Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=PartyB, L=New York, C=US {}
+[INFO ] 2020-04-20T10:27:20,455Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=6, serial=1587378437481) {}
+[INFO ] 2020-04-20T10:27:20,458Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=Mock Company 1, L=London, C=GB {}
+[INFO ] 2020-04-20T10:27:20,474Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,476Z [Test worker] network.PersistentNetworkMapCache. - No previous node found for O=PartyB, L=New York, C=US {}
+[INFO ] 2020-04-20T10:27:20,562Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,562Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2020-04-20T10:27:20,562Z [Test worker] network.PersistentNetworkMapCache. - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=PartyB, L=New York, C=US], platformVersion=6, serial=1587378440266) {}
+[INFO ] 2020-04-20T10:27:20,562Z [Test worker] network.PersistentNetworkMapCache. - Previous node was identical to incoming one - doing nothing {}
+[WARN ] 2020-04-20T10:27:20,565Z [Test worker] internal.NodeFlowManager. - Multiple flows are registered for InitiatingFlow: class com.template.flows.AskInitiator, currently using: class com.template.flows.AskResponder {}
+[INFO ] 2020-04-20T10:27:20,565Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AskInitiator to initiate com.template.flows.AskResponder (version 1) {}
+[WARN ] 2020-04-20T10:27:20,610Z [Test worker] internal.NodeFlowManager. - Multiple flows are registered for InitiatingFlow: class com.template.flows.AnswerInitiator, currently using: class com.template.flows.AnswerResponder {}
+[INFO ] 2020-04-20T10:27:20,610Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AnswerInitiator to initiate com.template.flows.AnswerResponder (version 1) {}
+[WARN ] 2020-04-20T10:27:20,647Z [Test worker] internal.NodeFlowManager. - Multiple flows are registered for InitiatingFlow: class com.template.flows.AskInitiator, currently using: class com.template.flows.AskResponder {}
+[INFO ] 2020-04-20T10:27:20,647Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AskInitiator to initiate com.template.flows.AskResponder (version 1) {}
+[WARN ] 2020-04-20T10:27:20,650Z [Test worker] internal.NodeFlowManager. - Multiple flows are registered for InitiatingFlow: class com.template.flows.AnswerInitiator, currently using: class com.template.flows.AnswerResponder {}
+[INFO ] 2020-04-20T10:27:20,650Z [Test worker] internal.NodeFlowManager. - Registered com.template.flows.AnswerInitiator to initiate com.template.flows.AnswerResponder (version 1) {}
+[WARN ] 2020-04-20T10:27:22,239Z [Mock network] transactions.TransactionBuilder. - Signature constraints not available on network requiring a minimum platform version of 4. Current is: 1. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145}
+[WARN ] 2020-04-20T10:27:22,239Z [Mock network] transactions.TransactionBuilder. - Reverting back to using hash constraints for contract com.template.contracts.QAContract {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145}
+[INFO ] 2020-04-20T10:27:23,842Z [Mock network] corda.flow. - No need to notarise this transaction. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:23,842Z [Mock network] corda.flow. - Recording transaction locally. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:24,243Z [Mock network] corda.flow. - Recorded transaction locally successfully. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,235Z [Mock network] corda.flow. - Received transaction acknowledgement request from party O=Mock Company 1, L=London, C=GB. {fiber-id=10000002, flow-id=00f6da7a-0bb2-44b6-a5d8-10965e134847, invocation_id=e065db86-f38c-4b39-8810-3076fafe7c84, invocation_timestamp=2020-04-20T10:27:25.031Z, origin=O=Mock Company 1, L=London, C=GB, session_id=e065db86-f38c-4b39-8810-3076fafe7c84, session_timestamp=2020-04-20T10:27:25.031Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,379Z [Mock network] corda.flow. - Transaction dependencies resolution completed. {fiber-id=10000002, flow-id=00f6da7a-0bb2-44b6-a5d8-10965e134847, invocation_id=e065db86-f38c-4b39-8810-3076fafe7c84, invocation_timestamp=2020-04-20T10:27:25.031Z, origin=O=Mock Company 1, L=London, C=GB, session_id=e065db86-f38c-4b39-8810-3076fafe7c84, session_timestamp=2020-04-20T10:27:25.031Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,411Z [Mock network] corda.flow. - Successfully received fully signed tx. Sending it to the vault for processing. {fiber-id=10000002, flow-id=00f6da7a-0bb2-44b6-a5d8-10965e134847, invocation_id=e065db86-f38c-4b39-8810-3076fafe7c84, invocation_timestamp=2020-04-20T10:27:25.031Z, origin=O=Mock Company 1, L=London, C=GB, session_id=e065db86-f38c-4b39-8810-3076fafe7c84, session_timestamp=2020-04-20T10:27:25.031Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,490Z [Mock network] corda.flow. - Successfully recorded received transaction locally. {fiber-id=10000002, flow-id=00f6da7a-0bb2-44b6-a5d8-10965e134847, invocation_id=e065db86-f38c-4b39-8810-3076fafe7c84, invocation_timestamp=2020-04-20T10:27:25.031Z, origin=O=Mock Company 1, L=London, C=GB, session_id=e065db86-f38c-4b39-8810-3076fafe7c84, session_timestamp=2020-04-20T10:27:25.031Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,666Z [Mock network] corda.flow. - Party O=PartyB, L=New York, C=US received the transaction. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:25,666Z [Mock network] corda.flow. - All parties received the transaction successfully. {actor_id=Only For Testing, actor_owning_identity=O=Mock Company 1, L=London, C=GB, actor_store_id=TEST, fiber-id=10000001, flow-id=716ef690-4e4e-4a12-8a82-2eea1c58e5e5, invocation_id=45fb88c5-c097-442e-8720-0cb36e1cea00, invocation_timestamp=2020-04-20T10:27:21.687Z, origin=Only For Testing, session_id=45fb88c5-c097-442e-8720-0cb36e1cea00, session_timestamp=2020-04-20T10:27:21.687Z, thread-id=145, tx_id=AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC}
+[INFO ] 2020-04-20T10:27:26,322Z [Mock network] corda.flow. - Received transaction acknowledgement request from party O=PartyB, L=New York, C=US. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:26,363Z [Mock network] corda.flow. - Transaction dependencies resolution completed. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:26,746Z [Mock network] corda.flow. - Sending transaction to notary: O=Notary Service, L=Zurich, C=CH. {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:26,933Z [Mock network] corda.flow. - Received a notarisation request for Tx [63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C] from [O=PartyB, L=New York, C=US] {fiber-id=10000005, flow-id=d84be345-a223-4c07-b77d-37168a24e6de, invocation_id=20545b5b-b13c-49f3-bcb3-d49534ed1d47, invocation_timestamp=2020-04-20T10:27:26.873Z, origin=O=PartyB, L=New York, C=US, session_id=20545b5b-b13c-49f3-bcb3-d49534ed1d47, session_timestamp=2020-04-20T10:27:26.873Z, thread-id=145}
+[INFO ] 2020-04-20T10:27:27,574Z [Notary request queue processor] transactions.PersistentUniquenessProvider. - Successfully committed all input states: [AD1EFE57CAE356BD6FDF0D79A06BD9AAB4209AE9E789C0B129FEF6916F832EEC(0)]. TxId: 63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C {}
+[INFO ] 2020-04-20T10:27:27,588Z [Mock network] corda.flow. - Transaction [63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C] successfully notarised, sending signature back to [O=PartyB, L=New York, C=US] {fiber-id=10000005, flow-id=d84be345-a223-4c07-b77d-37168a24e6de, invocation_id=20545b5b-b13c-49f3-bcb3-d49534ed1d47, invocation_timestamp=2020-04-20T10:27:26.873Z, origin=O=PartyB, L=New York, C=US, session_id=20545b5b-b13c-49f3-bcb3-d49534ed1d47, session_timestamp=2020-04-20T10:27:26.873Z, thread-id=145}
+[INFO ] 2020-04-20T10:27:27,640Z [Mock network] corda.flow. - Notary responded (O=Notary Service, L=Zurich, C=CH). {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,642Z [Mock network] corda.flow. - Recording transaction locally. {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,674Z [Mock network] corda.flow. - Recorded transaction locally successfully. {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,696Z [Mock network] corda.flow. - Received transaction acknowledgement request from party O=PartyB, L=New York, C=US. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,733Z [Mock network] corda.flow. - Transaction dependencies resolution completed. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,746Z [Mock network] corda.flow. - Successfully received fully signed tx. Sending it to the vault for processing. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,784Z [Mock network] corda.flow. - Successfully recorded received transaction locally. {fiber-id=10000004, flow-id=649847c2-cdbd-4067-916d-b2fb8d8cb002, invocation_id=ffcbb558-d524-4b28-a797-312da011c398, invocation_timestamp=2020-04-20T10:27:26.239Z, origin=O=PartyB, L=New York, C=US, session_id=ffcbb558-d524-4b28-a797-312da011c398, session_timestamp=2020-04-20T10:27:26.239Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,825Z [Mock network] corda.flow. - Party O=Mock Company 1, L=London, C=GB received the transaction. {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
+[INFO ] 2020-04-20T10:27:27,825Z [Mock network] corda.flow. - All parties received the transaction successfully. {actor_id=Only For Testing, actor_owning_identity=O=PartyB, L=New York, C=US, actor_store_id=TEST, fiber-id=10000003, flow-id=62399544-a3f9-4b8f-9a10-026663e757c2, invocation_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, invocation_timestamp=2020-04-20T10:27:25.703Z, origin=Only For Testing, session_id=7f00a7be-d74d-4a95-955b-4cf8c39657c6, session_timestamp=2020-04-20T10:27:25.703Z, thread-id=145, tx_id=63D11DC0D8C22372B4229A2E86F52D29FDD4D43F3352164B1F589436255A8E1C}
